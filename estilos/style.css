@@ -17,7 +17,7 @@
   --font2: "Cinzel", serif;
 }
 body, html {
-  background-image: url('/imagem/stars-472968.jpg');
+  background-image: url('../imagem/stars-472968.jpg');
   min-height: 100vh;
   font-size: 4.0vw;
   background-size: cover;
@@ -75,11 +75,11 @@ article.imagem > p {
   text-shadow: 1px 1px 0px rgba(68, 68, 68, 0.038);
 }
 article#img01 {
-background-image: url('/imagem/yoda-667955_1920.jpg');
+background-image: url('../imagem/yoda-667955_1920.jpg');
 background-position: center center;
 
 }
 article#img02 {
-  background-image: url('/imagem/benkenobi.webp');
+  background-image: url('../imagem/benkenobi.webp');
   background-position: center top;
 }
